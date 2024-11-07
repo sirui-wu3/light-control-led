@@ -5,3 +5,4 @@
 https://github.com/sirui-wu3/light-control-louver/blob/main/pds%20auto%20control%20led.pdf
 # may be the initial schematic(we definitely make changes)
 [Schematic Light-sensitive Louver-1.pdf](https://github.com/user-attachments/files/17655564/Schematic.Light-sensitive.Louver-1.pdf)
+# our schedule (from start to the future)
